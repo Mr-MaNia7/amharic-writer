@@ -1,0 +1,8 @@
+schema_version: "1.1"
+name: translate-closure-notice
+expected_outcome: |
+  A polite, natural Amharic notice in Fidel, saved as notice-am.md. It addresses members respectfully,
+  uses Ethiopic punctuation correctly, gives the closure date in a form Ethiopian readers will read
+  correctly (the Ethiopian date is Friday ጥቅምት 28, 2018 ዓ.ም.; Monday is ኅዳር 1), makes the 9:00 AM
+  reopening unambiguous for readers used to the Ethiopian clock (ከጠዋቱ 3 ሰዓት), and keeps the phone
+  number exactly.

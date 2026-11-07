@@ -1,0 +1,4 @@
+.DS_Store
+evals/results/
+trigger-evals/results/
+*.zip

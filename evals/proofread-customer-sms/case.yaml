@@ -1,0 +1,8 @@
+schema_version: "1.1"
+name: proofread-customer-sms
+expected_outcome: |
+  A corrected SMS in sms-fixed.txt plus a list of changes. The corrections: no space before ፣ or ።,
+  `::` replaced by ።, the informal ትዕዛዝህ made polite to match the rest, the wrong-voice "order has
+  received" fixed (e.g. ትዕዛዝዎ ደርሶናል / ትዕዛዝዎን ተቀብለናል), the calque ውሳኔ ከወሰዱ replaced
+  (e.g. ከወሰኑ), the redundant እኛን removed, and a final ። added, while keeping the message's content
+  and tone.

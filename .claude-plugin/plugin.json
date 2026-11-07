@@ -1,0 +1,10 @@
+{
+  "name": "amharic-writer",
+  "version": "0.1.0",
+  "description": "Writes, translates, localizes and proofreads Amharic (አማርኛ) in Fidel so it reads as natural, suitably polite Amharic rather than translated English.",
+  "author": { "name": "Abdulkarim Getachew", "url": "https://github.com/Mr-MaNia7" },
+  "homepage": "https://github.com/Mr-MaNia7/amharic-writer",
+  "repository": "https://github.com/Mr-MaNia7/amharic-writer",
+  "license": "MIT",
+  "keywords": ["amharic", "ethiopia", "translation", "localization", "proofreading", "ethiopian-calendar"]
+}

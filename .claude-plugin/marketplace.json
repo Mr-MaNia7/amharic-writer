@@ -1,0 +1,16 @@
+{
+  "name": "amharic-writer",
+  "description": "An Amharic writing skill for Claude Code and other agents.",
+  "owner": {
+    "name": "Abdulkarim Getachew",
+    "url": "https://github.com/Mr-MaNia7"
+  },
+  "plugins": [
+    {
+      "name": "amharic-writer",
+      "source": "./",
+      "description": "Natural, suitably polite Amharic: writing, translation, app strings, proofreading and Ethiopian-calendar dates.",
+      "version": "0.1.0"
+    }
+  ]
+}

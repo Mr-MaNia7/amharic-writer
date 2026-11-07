@@ -1,0 +1,8 @@
+schema_version: "1.1"
+name: translate-relation-markers
+expected_outcome: |
+  Five natural Amharic lines in newsletter-am.md, in a polite register, where every noun's relation
+  to its verb is marked the Amharic way rather than copied from the English prepositions: the
+  parents asked are a -ን object followed by an እንዲ- clause, the bus waited for is a plain -ን
+  object (no ለ-), the office is called with ወደ (not ለ-), the thanks uses ስለ (or ለ-), and "wrote to
+  them" puts the recipient on the verb (e.g. ጻፉላቸው / ጻፈላቸው) or uses ለእነሱ.
