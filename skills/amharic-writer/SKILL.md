@@ -1,6 +1,6 @@
 ---
 name: amharic-writer
-description: Writes, translates, localizes and proofreads Amharic (አማርኛ) in Fidel so it reads as natural, suitably polite Amharic rather than translated English. Use when the output or the text being checked is Amharic: drafting messages, posts or notices, translating to or from Amharic, app or site strings, correcting Amharic text, or dates in the Ethiopian calendar, even if the user only says "in Amharic". Not for other Ethiopic-script languages such as Tigrinya, for questions about Amharic answered in English, or for English text that merely mentions Ethiopia.
+description: 'Writes, translates, localizes and proofreads Amharic (አማርኛ) in Fidel so it reads as natural, suitably polite Amharic rather than translated English. Use when the output or the text being checked is Amharic: drafting messages, posts or notices, translating to or from Amharic, app or site strings, correcting Amharic text, or dates in the Ethiopian calendar, even if the user only says "in Amharic". Not for other Ethiopic-script languages such as Tigrinya, for questions about Amharic answered in English, or for English text that merely mentions Ethiopia.'
 ---
 
 # Writing Amharic
